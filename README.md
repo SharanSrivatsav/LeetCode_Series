@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0011-container-with-most-water) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
@@ -24,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0011-container-with-most-water) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
