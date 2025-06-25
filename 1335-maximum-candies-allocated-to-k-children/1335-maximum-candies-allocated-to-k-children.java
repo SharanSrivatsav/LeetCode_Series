@@ -1,8 +1,11 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
-        Arrays.sort(candies);
+        // Arrays.sort(candies);
         int st = 1;
-        int en = candies[candies.length-1];
+        int en = 0;
+        for(int i :candies){
+            en=Math.max(en,i);
+        }
         int ans =0;
         while(st<=en){
             int m = (st+en)/2;
