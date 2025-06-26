@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
