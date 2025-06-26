@@ -6,16 +6,15 @@ public class Solution extends VersionControl {
         int st =0;
         int en = n;
         int ans =0;
-        while(st<=en){
+        while(st<en){
             int m =st+(en-st)/2;
             if(isBadVersion(m)){
-                ans =m;
-                en=m-1;
+                en=m;
             }
             else{
                 st=m+1;
             }
         }
-        return ans;
+        return st;
     }
 }
