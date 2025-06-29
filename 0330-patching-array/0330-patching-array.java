@@ -4,7 +4,7 @@ class Solution {
         int i =0; int c =0;
         while(covered<n){
             if(i<nums.length&&nums[i]<=covered+1){
-                covered+=(long)nums[i]*1;
+                covered+=nums[i];
                 i++;
             }
             else{
