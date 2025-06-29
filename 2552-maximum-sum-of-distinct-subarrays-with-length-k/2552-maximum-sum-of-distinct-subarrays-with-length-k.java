@@ -14,6 +14,7 @@ class Solution {
             set.add(nums[i]);
             if(i-l+1==k){
                 max=Math.max(max,sum);
+                // i++ will happen automatically but we have to push the l pointer to the next start of the window
                 sum-=nums[l];
                 set.remove(nums[l++]);
             }
