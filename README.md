@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0239-sliding-window-maximum) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
 | ------- |
