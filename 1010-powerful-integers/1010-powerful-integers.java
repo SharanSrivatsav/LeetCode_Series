@@ -12,9 +12,9 @@ class Solution {
                 if(!list.contains(i+j)){
                     list.add(i+j);
                 }
-                if(y==1) break;
+                if(y==1) break;//for breaking infinite loop
             }
-            if(x==1) break;
+            if(x==1) break;// for breaking infinite loop
         }
         return list;
     }
