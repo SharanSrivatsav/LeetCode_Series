@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [1138-grumpy-bookstore-owner](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1138-grumpy-bookstore-owner) |
@@ -129,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
