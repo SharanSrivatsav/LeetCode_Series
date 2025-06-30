@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1755-defuse-the-bomb](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1755-defuse-the-bomb) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [1138-grumpy-bookstore-owner](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1138-grumpy-bookstore-owner) |
+| [1755-defuse-the-bomb](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
