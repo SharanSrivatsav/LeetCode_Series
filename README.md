@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [0506-relative-ranks](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1138-grumpy-bookstore-owner) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
+| [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
+| [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [1138-grumpy-bookstore-owner](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1138-grumpy-bookstore-owner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
