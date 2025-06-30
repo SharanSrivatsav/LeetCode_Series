@@ -3,6 +3,7 @@ class Solution {
         List<List<Integer>> list = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
         solve(nums,temp,list,0);
+        Collections.sort(list,(a,b) -> a.size()-b.size());
         return list;
     }
     public static void solve(int nums[],List<Integer> temp ,List<List<Integer>> list, int st ){
