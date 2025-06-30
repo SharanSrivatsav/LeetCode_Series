@@ -8,6 +8,7 @@ class Solution {
     public static void solve(int nums[],List<Integer> temp ,List<List<Integer>> list, int st ){
         list.add(new ArrayList<>(temp));
         if(st==nums.length){
+            // base condition
             return;
         }
         for(int i=st;i<nums.length;i++){
