@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
@@ -163,13 +164,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
