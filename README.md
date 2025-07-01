@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0239-sliding-window-maximum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 ## Breadth-First Search
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 ## Union Find
