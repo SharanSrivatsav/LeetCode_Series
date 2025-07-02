@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0216-combination-sum-iii) |
