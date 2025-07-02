@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1138-grumpy-bookstore-owner) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [1010-powerful-integers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1010-powerful-integers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3617-find-the-original-typed-string-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1961-maximum-ice-cream-bars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1961-maximum-ice-cream-bars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -92,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
 |  |
@@ -204,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1961-maximum-ice-cream-bars) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
