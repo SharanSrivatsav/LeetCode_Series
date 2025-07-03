@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0093-restore-ip-addresses) |
