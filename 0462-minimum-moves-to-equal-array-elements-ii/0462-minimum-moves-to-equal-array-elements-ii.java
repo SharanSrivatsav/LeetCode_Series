@@ -4,7 +4,7 @@ class Solution {
         int mid = nums[nums.length / 2];
         int ans = 0;
         for (int i : nums) {
-            ans += (int) Math.abs(i - mid);
+            ans += Math.abs(i - mid);
         }
         return ans;
     }
