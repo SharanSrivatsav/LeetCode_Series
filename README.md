@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0042-trapping-rain-water) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0037-sudoku-solver) |
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0451-sort-characters-by-frequency) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0052-n-queens-ii) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
