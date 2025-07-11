@@ -8,6 +8,7 @@ class Solution {
             int m = st+(en-st)/2;
             if(isValid(houses,heaters,m)){
                 ans = m;
+                //passing radius and trying to find a small one as answer
                 en=m-1;
             }
             else{
@@ -19,8 +20,10 @@ class Solution {
     public static boolean isValid(int house[], int heater[],int m){
         int p = 0;
         for(int i=0;i<heater.length;i++){
+           // range formation
            int left = heater[i]-m;
            int right = heater[i]+m;
+           // checking whether the houses are in the range
            while(p<house.length&&house[p]>=left&&house[p]<=right){
             p++;
            }
