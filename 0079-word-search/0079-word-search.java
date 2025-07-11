@@ -12,8 +12,7 @@ class Solution {
                 if (board[i][j] == word.charAt(0) && !v[i][j]) {
                     paii = dfs(i, j, board, word, 0);
                     // if the search result is true we are returing it
-                    // (bcos after this the next search will return false which will change the
-                    // result)
+                    // (bcos after this the next search will return false which will change the result)
                     if (paii) {
                         return paii;
                     }
@@ -54,6 +53,7 @@ class Solution {
                 // this value is bactracked to the previous call
                 return z;
             }
+            // ingaye return aiduchu na we found it so no execution of next lines
         }
         // (undo call) if everything happens and no true is found
         // and hence
