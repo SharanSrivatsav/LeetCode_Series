@@ -16,7 +16,8 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
-        if(root==null) return res;
+        if (root == null)
+            return res;
         Queue<TreeNode> lq = new LinkedList<>();
         lq.add(root);
         boolean forw = true;
@@ -26,9 +27,9 @@ class Solution {
             for (int i = 0; i < level; i++) {
                 TreeNode t = lq.poll();
                 if (forw) {
-                    temp.add(t.val);
+                    temp.addLast(t.val);
                 } else {
-                    temp.add(0, t.val);
+                    temp.addFirst(t.val);
                 }
                 if (t.left != null) {
                     lq.add(t.left);
@@ -37,7 +38,7 @@ class Solution {
                     lq.add(t.right);
                 }
             }
-            forw=!forw;
+            forw = !forw;
             res.add(temp);
         }
         return res;
