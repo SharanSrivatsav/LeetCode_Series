@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1675-magnetic-force-between-two-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1755-defuse-the-bomb) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [1961-maximum-ice-cream-bars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1961-maximum-ice-cream-bars) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1675-magnetic-force-between-two-balls) |
 | [1961-maximum-ice-cream-bars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1961-maximum-ice-cream-bars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1675-magnetic-force-between-two-balls) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 ## Dynamic Programming
 |  |
