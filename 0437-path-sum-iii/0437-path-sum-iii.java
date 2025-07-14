@@ -17,7 +17,6 @@ class Solution {
     int count = 0;
     public int pathSum(TreeNode root, int targetSum) {
         HashMap<Long,Integer> map = new HashMap<>();
-        count=0;
         map.put((long)0,1);
         solver(root,targetSum,0,map);
         return count;
