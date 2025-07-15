@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3396-valid-word](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
