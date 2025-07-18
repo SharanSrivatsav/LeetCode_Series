@@ -349,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1153-product-sales-analysis-i) |
 | [1541-top-travellers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1541-top-travellers) |
+| [1908-recyclable-and-low-fat-products](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
