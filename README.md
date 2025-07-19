@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0513-find-bottom-left-tree-value) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0543-diameter-of-binary-tree) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0543-diameter-of-binary-tree) |
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
