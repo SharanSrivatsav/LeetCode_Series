@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
+| [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
 | [0365-water-and-jug-problem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0365-water-and-jug-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1010-powerful-integers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1010-powerful-integers) |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
