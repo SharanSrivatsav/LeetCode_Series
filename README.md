@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1010-powerful-integers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1010-powerful-integers) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0216-combination-sum-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
