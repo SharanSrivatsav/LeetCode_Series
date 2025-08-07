@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2665-minimum-time-to-repair-cars) |
+| [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 ## Hash Table
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
+| [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
 ## Union Find
 |  |
 | ------- |
