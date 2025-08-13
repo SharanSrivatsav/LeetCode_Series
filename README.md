@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0365-water-and-jug-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1010-powerful-integers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1010-powerful-integers) |
@@ -387,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
