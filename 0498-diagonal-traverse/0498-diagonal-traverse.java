@@ -14,6 +14,7 @@ class Solution {
                     i--;
                     j++;
                 }
+                // there are two edge cases and we are handling it accordingly 
                 if(j==n){
                     i+=2;
                     j--;
@@ -29,6 +30,7 @@ class Solution {
                     i++;
                     j--;
                 }
+                // same for downward direction there are two edges cases and we are handling it accordingly
                 if(i==m){
                     j+=2;
                     i--;
