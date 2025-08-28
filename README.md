@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2665-minimum-time-to-repair-cars) |
 | [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
+| [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1307-ugly-number-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1010-powerful-integers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1010-powerful-integers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1307-ugly-number-iii) |
+| [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 ## Simulation
 |  |
 | ------- |
