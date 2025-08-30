@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
@@ -447,4 +449,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
