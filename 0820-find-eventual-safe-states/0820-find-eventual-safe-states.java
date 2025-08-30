@@ -5,6 +5,11 @@ class Solution {
         boolean vis[] = new boolean [V];
         boolean pathVis[] = new boolean [V];
         boolean isSafe [] = new boolean [V];
+        // instead of 3 arrays we can use a single array and can acheive this
+        /* 0 for unvisted
+           1 for visited and cycle
+           2 for fully visited and no cycle
+        */
         for(int i=0;i<V;i++){
             if(!vis[i]){
                 dfsCheck(graph,i,vis,pathVis,isSafe);
