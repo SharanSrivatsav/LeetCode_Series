@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
+| [1916-find-center-of-star-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
