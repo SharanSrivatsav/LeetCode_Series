@@ -24,7 +24,7 @@ class Solution {
         for (int i = 0; i < 4; i++) {
             int a = r + rd[i];
             int b = c + cd[i];
-            if (a < 0 || b < 0 || a >= grid.length || b >= grid[0].length || grid[a][b] != t) {
+            if (a < 0 || b < 0 || a >= grid.length || b >= grid[0].length || grid[a][b] != t||(a==pr&&b==pc)) {
                 continue;
             }
             if (vis[a][b] && (a != pr || b != pc)) {
