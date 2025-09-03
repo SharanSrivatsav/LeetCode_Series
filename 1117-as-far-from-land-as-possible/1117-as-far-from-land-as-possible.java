@@ -20,11 +20,14 @@ class Solution {
                 }
             }
         }
-        int dist =0;
+        int dist =-1;
         int rd [] ={-1,1,0,0};
         int cd [] = {0,0,-1,1};
         while(!bq.isEmpty()){
             int en = bq.size();
+            if(en==m*n){
+                return -1;
+            }
             //polling count
             for(int j=0;j<en;j++){
                 pair t =  bq.poll();
@@ -43,9 +46,6 @@ class Solution {
             // after every polling the distance increases 
             dist++;
         }
-        if(dist==1){
-            return -1;
-        }
-        return dist-1;
+        return dist;
     }
 }
