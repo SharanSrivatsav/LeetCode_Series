@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2793-count-the-number-of-complete-components) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -500,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
