@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0475-heaters) |
+| [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
@@ -250,10 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
