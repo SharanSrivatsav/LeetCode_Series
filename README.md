@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0216-combination-sum-iii) |
+| [0813-all-paths-from-source-to-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0813-all-paths-from-source-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
