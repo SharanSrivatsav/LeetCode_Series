@@ -3,24 +3,20 @@ class Solution {
        List<List<Integer>> res =  new ArrayList<>();
        List<Integer> t = new ArrayList<>();
        boolean vis [] = new boolean [graph.length];
-       dfs(res,t,vis,0,graph);
+       dfs(res,t,0,graph);
        return res;
     }
-    public void dfs(List<List<Integer>> res,List<Integer> t, boolean vis [], int val,int[][]adj){
+    public void dfs(List<List<Integer>> res,List<Integer> t, int val,int[][]adj){
         if(val==adj.length-1){
             t.add(val);
             res.add(new ArrayList<>(t));
             t.remove(t.size()-1);
             return;
         }
-        vis[val]=true;
         t.add(val);
         for(int i : adj[val]){
-            if(!vis[i]){
-                dfs(res,t,vis,i,adj);
-            }
+            dfs(res,t,i,adj);
         }
         t.remove(t.size()-1);
-        vis[val]=false;
     }
 }
