@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
+| [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [1010-powerful-integers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1010-powerful-integers) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
+| [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
+| [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
