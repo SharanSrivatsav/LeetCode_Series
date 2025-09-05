@@ -1,33 +1,32 @@
 class Solution {
     public String maxValue(String n, int x) {
         char c = (char) ((int) '0' + x);
-        StringBuilder res = new StringBuilder();
+        StringBuilder res = new StringBuilder(n);
         boolean z = true;
+        int ind =0;
         if (n.charAt(0)=='-') {
             // min finder
             for (char i : n.toCharArray()) {
                 if (i == '-') {
-                    res.append(i);
+                    ind++;
                     continue;
                 }
-                if (i > c && z) {
-                    res.append(c);
-                    z = false;
+                if (i > c) {
+                    res.insert(ind,c);
+                    return res.toString();
                 }
-                res.append(i);
+                ind++;
             }
         } else {
             for (char i : n.toCharArray()) {
-                if (i < c && z) {
-                    res.append(c);
-                    z = false;
+                if (i < c) {
+                    res.insert(ind,c);
+                    return res.toString();
                 }
-                res.append(i);
+                ind++;
             }
         }
-        if (z) {
-            res.append(c);
-        }
+        res.append(c);
         return res.toString();
     }
 }
