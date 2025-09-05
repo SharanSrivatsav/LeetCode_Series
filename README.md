@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1447-jump-game-iv) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [1010-powerful-integers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1010-powerful-integers) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
+| [1447-jump-game-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1447-jump-game-iv) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1813-maximum-erasure-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1813-maximum-erasure-value) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1447-jump-game-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
