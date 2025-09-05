@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
+| [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1063-best-sightseeing-pair) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
+| [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
