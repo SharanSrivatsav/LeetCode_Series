@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2181-smallest-index-with-equal-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2181-smallest-index-with-equal-value) |
+| [2183-minimum-operations-to-convert-number](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2183-minimum-operations-to-convert-number) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2121-find-if-path-exists-in-graph) |
+| [2183-minimum-operations-to-convert-number](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2183-minimum-operations-to-convert-number) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
