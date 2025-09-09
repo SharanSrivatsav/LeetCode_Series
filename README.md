@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1447-jump-game-iv) |
 | [1558-course-schedule-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1558-course-schedule-iv) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1558-course-schedule-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1916-find-center-of-star-graph) |
