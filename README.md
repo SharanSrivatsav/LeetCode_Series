@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
 | [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
+| [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [1063-best-sightseeing-pair](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0216-combination-sum-iii) |
+| [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0813-all-paths-from-source-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0813-all-paths-from-source-to-target) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
+| [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
@@ -563,5 +568,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
