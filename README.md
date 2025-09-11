@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1483-rank-teams-by-votes) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2011-maximum-value-after-insertion](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2011-maximum-value-after-insertion) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3396-valid-word](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3396-valid-word) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
