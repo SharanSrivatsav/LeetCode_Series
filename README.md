@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3396-valid-word) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
