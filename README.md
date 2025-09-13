@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2665-minimum-time-to-repair-cars) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2121-find-if-path-exists-in-graph) |
 | [2183-minimum-operations-to-convert-number](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2183-minimum-operations-to-convert-number) |
+| [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
+| [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
 ## Union Find
