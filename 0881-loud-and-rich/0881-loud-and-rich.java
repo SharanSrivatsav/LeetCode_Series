@@ -1,4 +1,5 @@
 class Solution {
+    int res [] ;
     public int[] loudAndRich(int[][] richer, int[] quiet) {
         int max = quiet.length;
         List<List<Integer>> adj =  new ArrayList<>();
@@ -9,7 +10,8 @@ class Solution {
             adj.get(a[1]).add(a[0]);
         }
         // adjacency list is created
-        int res [] =  new int [quiet.length];
+        res =  new int [quiet.length];
+        Arrays.fill(res,-1);
         for(int i=0;i<max;i++){
             res[i]=dfs(adj,new boolean[quiet.length],i,quiet);
         }
@@ -17,6 +19,9 @@ class Solution {
     }
     public int dfs(List<List<Integer>> adj , boolean vis[], int node , int q []){
         vis[node]=true;
+        if(res[node]!=-1){
+            return res[node];
+        }
         if(adj.get(node).size()==0){
             return node;
         }
