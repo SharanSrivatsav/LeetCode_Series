@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1447-jump-game-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1447-jump-game-iv) |
 | [1558-course-schedule-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1916-find-center-of-star-graph) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0881-loud-and-rich) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1558-course-schedule-iv) |
 ## Memoization
 |  |
