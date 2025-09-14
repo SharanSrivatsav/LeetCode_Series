@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0463-island-perimeter](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0437-path-sum-iii) |
+| [0463-island-perimeter](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0365-water-and-jug-problem) |
+| [0463-island-perimeter](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0463-island-perimeter](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
