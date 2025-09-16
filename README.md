@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0503-next-greater-element-ii) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1307-ugly-number-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 ## Bit Manipulation
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1307-ugly-number-iii) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 ## Simulation
 |  |
