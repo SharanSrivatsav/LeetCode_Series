@@ -5,6 +5,7 @@ class Solution {
         for( int i : batteries){
             en+=i;
         }
+        en/=n;
         long ans = -1;
         while(st<=en){
             long mid = st+(en-st)/2;
