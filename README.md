@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
+| [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## String
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-maximum-value-after-insertion](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2011-maximum-value-after-insertion) |
 | [2027-maximum-number-of-removable-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2027-maximum-number-of-removable-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3396-valid-word) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1879-maximum-score-from-removing-stones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1879-maximum-score-from-removing-stones) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 ## Tree
 |  |
 | ------- |
@@ -572,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 ## Combinatorics
 |  |
 | ------- |
