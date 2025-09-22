@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2665-minimum-time-to-repair-cars) |
 | [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3405-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1813-maximum-erasure-value) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
