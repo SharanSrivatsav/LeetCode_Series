@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3617-find-the-original-typed-string-i) |
+| [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Union Find
 |  |
 | ------- |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
