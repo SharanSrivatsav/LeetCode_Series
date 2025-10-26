@@ -12,7 +12,7 @@ class Solution {
             c-=(a-b);
         }
         else{
-            c+=b-a;
+            c+=(b-a);
         }
         changes+=c/60;
         c=c%60;
