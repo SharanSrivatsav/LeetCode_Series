@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3396-valid-word) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-maximum-number-of-removable-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2027-maximum-number-of-removable-characters) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-maximum-running-time-of-n-computers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3195-separate-black-and-white-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
