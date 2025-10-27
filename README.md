@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
 | [0881-loud-and-rich](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0881-loud-and-rich) |
 | [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0971-shortest-bridge) |
 | [1039-find-the-town-judge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1063-best-sightseeing-pair) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0881-loud-and-rich) |
+| [0971-shortest-bridge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
