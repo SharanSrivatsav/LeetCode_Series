@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-maximum-value-after-insertion](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2011-maximum-value-after-insertion) |
 | [2027-maximum-number-of-removable-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2027-maximum-number-of-removable-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1879-maximum-score-from-removing-stones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1879-maximum-score-from-removing-stones) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
