@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1380-number-of-closed-islands) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1447-jump-game-iv) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1558-course-schedule-iv) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1380-number-of-closed-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1447-jump-game-iv](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1447-jump-game-iv) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
