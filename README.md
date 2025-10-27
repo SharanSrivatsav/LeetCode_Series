@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3195-separate-black-and-white-balls) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Greedy
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
 | [2737-row-with-maximum-ones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2737-row-with-maximum-ones) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Union Find
