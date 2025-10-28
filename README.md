@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2169-simple-bank-system) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Graph
 |  |
 | ------- |
