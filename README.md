@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2429-design-a-food-rating-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1961-maximum-ice-cream-bars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Graph
 |  |
