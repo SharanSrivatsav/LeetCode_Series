@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
+| [0880-decoded-string-at-index](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0880-decoded-string-at-index) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1483-rank-teams-by-votes) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0503-next-greater-element-ii) |
+| [0880-decoded-string-at-index](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0880-decoded-string-at-index) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
