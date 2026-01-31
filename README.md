@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0475-heaters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1056-capacity-to-ship-packages-within-d-days) |
