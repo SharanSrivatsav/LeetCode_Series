@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [0880-decoded-string-at-index](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0880-decoded-string-at-index) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1483-rank-teams-by-votes) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0630-course-schedule-iii) |
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1879-maximum-score-from-removing-stones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1879-maximum-score-from-removing-stones) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0503-next-greater-element-ii) |
 | [0880-decoded-string-at-index](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0880-decoded-string-at-index) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
