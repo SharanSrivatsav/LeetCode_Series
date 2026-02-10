@@ -160,11 +160,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0299-bulls-and-cows) |
+| [0316-remove-duplicate-letters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0753-open-the-lock) |
 | [0880-decoded-string-at-index](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0880-decoded-string-at-index) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1483-rank-teams-by-votes) |
@@ -219,12 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0011-container-with-most-water) |
+| [0316-remove-duplicate-letters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0630-course-schedule-iii) |
 | [0853-most-profit-assigning-work](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0853-most-profit-assigning-work) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1879-maximum-score-from-removing-stones](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1879-maximum-score-from-removing-stones) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -372,18 +372,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0224-basic-calculator) |
+| [0316-remove-duplicate-letters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0503-next-greater-element-ii) |
 | [0880-decoded-string-at-index](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0880-decoded-string-at-index) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0503-next-greater-element-ii) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
