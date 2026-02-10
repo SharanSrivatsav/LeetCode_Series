@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1961-maximum-ice-cream-bars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1961-maximum-ice-cream-bars) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2027-maximum-number-of-removable-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2027-maximum-number-of-removable-characters) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0498-diagonal-traverse) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2169-simple-bank-system](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
