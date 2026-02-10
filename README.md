@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3292-earliest-second-to-mark-indices-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3292-earliest-second-to-mark-indices-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3719-longest-balanced-subarray-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
 | ------- |
@@ -688,4 +691,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
