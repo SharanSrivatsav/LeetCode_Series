@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1961-maximum-ice-cream-bars](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1992-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1992-find-all-groups-of-farmland) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2027-maximum-number-of-removable-characters](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2027-maximum-number-of-removable-characters) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1992-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1992-find-all-groups-of-farmland) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1992-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1992-find-all-groups-of-farmland) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2121-find-if-path-exists-in-graph) |
 | [2183-minimum-operations-to-convert-number](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2183-minimum-operations-to-convert-number) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1992-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/1992-find-all-groups-of-farmland) |
 | [2103-find-all-groups-of-farmland](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2103-find-all-groups-of-farmland) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2344-escape-the-spreading-fire](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2344-escape-the-spreading-fire) |
