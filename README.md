@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0187-repeated-dna-sequences) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/0693-binary-number-with-alternating-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SharanSrivatsav/LeetCode_Series/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Rolling Hash
 |  |
